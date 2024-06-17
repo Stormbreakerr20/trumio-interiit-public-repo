@@ -1,0 +1,172 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  null
+  client
+  talent
+}
+
+model User {
+  id                    String          @id
+  role                  Role            @default(null)
+  phone_number          String          @default("")
+  phone_number_verified Boolean         @default(false)
+  
+  talent_tagline String @default("")
+  talent_work_experience Int @default(0)
+  talent_introduction String @default("")
+  talent_job_title String @default("")
+  talent_certificates Json @default("[]")
+  
+  skills Json @default("[]")
+  tools Json @default("[]")
+  weekdays         Boolean @default(false)
+  weekends         Boolean @default(false)
+  weekdayStartHour Int  @default(9)
+  weekdayEndHour   Int  @default(17)
+  weekendStartHour Int  @default(9)
+  weekendEndHour   Int @default(17)
+  workingWeekdays  Json @default("{\"mon\":false, \"tue\":false, \"wed\":false, \"thu\":false, \"fri\":false}")
+  workingWeekends  Json @default("{\"sat\":false, \"sun\":false}")
+
+  client_company_name String @default("")
+  client_job_title String @default("")
+  client_company_tagline String @default("")
+  client_company_industry String @default("")
+  client_company_size String @default("")
+  client_area_of_interest Json @default("[]")
+  
+
+  created_at            DateTime        @default(now())
+  updated_at            DateTime        @updatedAt
+  projects              Project[]
+  master_ai_chats       MasterAIChats[]
+  updates               Updates[]
+  messaging_password    String          @default(uuid())
+  bids                  Bid[]
+}
+
+model MasterAIChats {
+  id         String           @id @default(uuid())
+  type       MasterAIChatType
+  project    Project          @relation(fields: [projectId], references: [id])
+  projectId  String
+  user       User?            @relation(fields: [userId], references: [id])
+  userId     String?
+  data       Json
+  created_at DateTime         @default(now())
+  updated_at DateTime         @updatedAt
+}
+
+model Updates {
+  id         String   @id @default(uuid())
+  project    Project  @relation(fields: [projectId], references: [id])
+  projectId  String
+  user       User?    @relation(fields: [userId], references: [id])
+  userId     String?
+  meeting_name String
+  agenda String
+  key_items String[]
+  action_items String[]
+  action_items_status Boolean[]
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+enum MasterAIChatType {
+  query
+  milestone
+  resource
+  update
+  payment
+  discussion
+}
+
+enum ProjectStatus {
+  open_listing
+  in_review
+  in_development
+}
+
+model Project {
+  id            String @id @default(uuid())
+  project_name  String
+  duration      Int
+  duration_unit String
+  description   String
+
+  technical_requirements Json @default("{}")
+
+  timezone         String
+  timeOverlap      Int
+  weekdays         Boolean
+  weekends         Boolean
+  weekdayStartHour Int
+  weekdayEndHour   Int
+  weekendStartHour Int
+  weekendEndHour   Int
+  workingWeekdays  Json
+  workingWeekends  Json
+
+  skills Json 
+  tools  Json
+
+  countries   String[]
+  isIncluding Boolean
+
+  nda             Boolean         @default(false)
+  master_ai_chats MasterAIChats[]
+  updates         Updates[]
+
+  status       ProjectStatus @default(open_listing)
+  team_members User[]
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  milestones Json @default("{}")
+
+  bids Bid[]
+
+  github_repos GithubRepos[]
+}
+
+model GithubRepos {
+  id String @id @default(uuid())
+
+  project   Project @relation(fields: [projectId], references: [id])
+  projectId String
+
+  username    String
+  repo        String
+  last_fetch  DateTime @default(now())
+  description String   @default("")
+  commit      Json[]   @default([])
+  files       Json[]   @default([])
+
+  @@unique([projectId, username, repo])
+}
+
+model Bid {
+  id        String  @id @default(uuid())
+  user      User    @relation(fields: [userId], references: [id])
+  userId    String
+  bid_data  Json
+  project   Project @relation(fields: [projectId], references: [id])
+  projectId String
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@unique([projectId, userId])
+}

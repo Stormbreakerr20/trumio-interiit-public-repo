@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: data
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: example
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+  studio:
+    build:
+      context: ./frontend
+      dockerfile: prisma.dockerfile
+    container_name: studio
+    depends_on:
+      - db
+    ports: 
+      - 5555:5555
+    environment:
+      - DATABASE_URL=postgresql://user:example@db:5432/data
+
+  nextjs:
+    build: ./frontend
+    container_name: nextjs
+    depends_on:
+      - db
+      
+    ports: 
+      - "3000:3000"
+    # environment:
+    volumes:
+      - ./frontend:/app
+
+
+volumes:
+  postgres-data:
+  index_data:

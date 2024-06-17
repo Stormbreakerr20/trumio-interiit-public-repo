@@ -1,0 +1,28 @@
+{
+  "project_name": "Build Reference Architecture for Enterprise LLM Tools in Azure",
+  "project_description": "Prototype a reference architecture for leveraging data stored in IBM Power virtual machines on Skytap to power enterprise LLM (Legal Lifecycle Management) tools in Azure. This project will involve comprehensive data extraction, processing, and storage tasks. Additionally, the team will be working on integrating embeddings and large language models to enhance the capabilities of the system.\n\nTools and services that might be used include:\n- Skytap\n- IBM i / AIX LPARs\n- IBM DB2 or Oracle databases\n- Azure Data Factory\n- Blob storage\n- Azure Cognitive Services\n- Azure Open AI\n- Azure Cosmos DB\n\nThe expected duration for the project is 4 weeks, starting from 09 Nov 2023 and concluding on 06 Feb 2024.",
+  "project_duration": "4 weeks",
+  "project_listing_duration": "09 Nov 2023 to 06 Feb 2024",
+  "skills_required": [
+    "Azure (Microsoft Azure)",
+    "Data Warehousing",
+    "ETL (Extract, Transform, Load)",
+    "AI Engineering",
+    "Microsoft Azure Machine Learning"
+  ],
+  "tools_required": [
+    "Microsoft Azure Machine Learning",
+    "Database Management",
+    "Microsoft Azure"
+  ],
+  "team": [
+    {
+      "name": "John Doe",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "Developer"
+    }
+  ]
+}

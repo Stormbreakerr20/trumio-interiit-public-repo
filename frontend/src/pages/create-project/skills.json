@@ -1,0 +1,2626 @@
+[
+  {
+    "_id": "6486a65e34730cac6a48042a",
+    "name": ".NET Core"
+  },
+  {
+    "_id": "6486a65e34730cac6a48042b",
+    "name": ".NET Framework"
+  },
+  {
+    "_id": "654389faa60c648621a70761",
+    "name": "3D Studio Max"
+  },
+  {
+    "_id": "654389faa60c648621a707a4",
+    "name": "A/B Testing Tools"
+  },
+  {
+    "_id": "654389faa60c648621a706c6",
+    "name": "AB Tasty"
+  },
+  {
+    "_id": "654389faa60c648621a70708",
+    "name": "AI Engineering"
+  },
+  {
+    "_id": "654389faa60c648621a7080b",
+    "name": "AI Ethics"
+  },
+  {
+    "_id": "6486a65e34730cac6a480434",
+    "name": "ASP.NET"
+  },
+  {
+    "_id": "6486a65e34730cac6a480436",
+    "name": "AWS (Amazon Web Services)"
+  },
+  {
+    "_id": "654389faa60c648621a706d8",
+    "name": "AWS CloudFormation"
+  },
+  {
+    "_id": "654389faa60c648621a70871",
+    "name": "AWS CodeDeploy"
+  },
+  {
+    "_id": "654389faa60c648621a70792",
+    "name": "AWS Lambda"
+  },
+  {
+    "_id": "6486a65e34730cac6a48042c",
+    "name": "Accessibility"
+  },
+  {
+    "_id": "654389faa60c648621a70721",
+    "name": "Accounting Software (e.g., QuickBooks)"
+  },
+  {
+    "_id": "654389faa60c648621a70850",
+    "name": "Ad Copywriting"
+  },
+  {
+    "_id": "654389faa60c648621a70814",
+    "name": "Ad Design"
+  },
+  {
+    "_id": "654389faa60c648621a70828",
+    "name": "Adaptability"
+  },
+  {
+    "_id": "654389faa60c648621a707cb",
+    "name": "Adobe Creative Suite"
+  },
+  {
+    "_id": "654389faa60c648621a70847",
+    "name": "Adobe Illustrator"
+  },
+  {
+    "_id": "654389faa60c648621a708b1",
+    "name": "Adobe Photoshop"
+  },
+  {
+    "_id": "654389faa60c648621a707e3",
+    "name": "Advertising Campaigns"
+  },
+  {
+    "_id": "654389faa60c648621a707a5",
+    "name": "Affiliate Marketing"
+  },
+  {
+    "_id": "6486a65e34730cac6a48042d",
+    "name": "Agile Development Methodologies"
+  },
+  {
+    "_id": "654389faa60c648621a707be",
+    "name": "Agile and Waterfall Methodologies"
+  },
+  {
+    "_id": "654389faa60c648621a708c4",
+    "name": "Alternative Dispute Resolution (ADR)"
+  },
+  {
+    "_id": "654389faa60c648621a707c7",
+    "name": "Amazon AI Services"
+  },
+  {
+    "_id": "654389faa60c648621a706e0",
+    "name": "Amazon ECS"
+  },
+  {
+    "_id": "654389faa60c648621a707bf",
+    "name": "Amazon Web Services (AWS)"
+  },
+  {
+    "_id": "654389faa60c648621a70846",
+    "name": "Analytics and Reporting Tools"
+  },
+  {
+    "_id": "654389faa60c648621a70873",
+    "name": "Android Development"
+  },
+  {
+    "_id": "6486a65e34730cac6a48042e",
+    "name": "Angular"
+  },
+  {
+    "_id": "6486a65e34730cac6a48042f",
+    "name": "AngularJS"
+  },
+  {
+    "_id": "6486a65e34730cac6a480430",
+    "name": "Ansible"
+  },
+  {
+    "_id": "654389faa60c648621a7077e",
+    "name": "Anti-Money Laundering (AML)"
+  },
+  {
+    "_id": "654389faa60c648621a708bd",
+    "name": "Antitrust and Competition Law"
+  },
+  {
+    "_id": "654389faa60c648621a70880",
+    "name": "Apache Ant"
+  },
+  {
+    "_id": "654389faa60c648621a70886",
+    "name": "Apache JMeter"
+  },
+  {
+    "_id": "6486a65e34730cac6a480431",
+    "name": "Apache Kafka"
+  },
+  {
+    "_id": "654389faa60c648621a706f0",
+    "name": "Apache MXNet"
+  },
+  {
+    "_id": "654389faa60c648621a70763",
+    "name": "Apache Mesos"
+  },
+  {
+    "_id": "6486a65e34730cac6a480432",
+    "name": "Apache Spark"
+  },
+  {
+    "_id": "654389faa60c648621a7079b",
+    "name": "Apigee"
+  },
+  {
+    "_id": "654389faa60c648621a707a2",
+    "name": "App Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a707f9",
+    "name": "AppDynamics"
+  },
+  {
+    "_id": "654389faa60c648621a7089b",
+    "name": "Appian"
+  },
+  {
+    "_id": "6486a65e34730cac6a480433",
+    "name": "Artificial Intelligence"
+  },
+  {
+    "_id": "654389faa60c648621a70720",
+    "name": "Artificial Intelligence (AI)"
+  },
+  {
+    "_id": "654389faa60c648621a70810",
+    "name": "Asana"
+  },
+  {
+    "_id": "654389faa60c648621a706cc",
+    "name": "Assembly Language"
+  },
+  {
+    "_id": "654389faa60c648621a7075a",
+    "name": "Asset Allocation"
+  },
+  {
+    "_id": "654389faa60c648621a70722",
+    "name": "Asset Management"
+  },
+  {
+    "_id": "654389faa60c648621a7074e",
+    "name": "Atom Packages"
+  },
+  {
+    "_id": "654389faa60c648621a7079d",
+    "name": "Auditing"
+  },
+  {
+    "_id": "6486a65e34730cac6a480435",
+    "name": "Augmented Reality (AR) Development"
+  },
+  {
+    "_id": "654389faa60c648621a7075e",
+    "name": "AutoCAD"
+  },
+  {
+    "_id": "654389faa60c648621a7073a",
+    "name": "AutoML"
+  },
+  {
+    "_id": "654389faa60c648621a706ce",
+    "name": "Automation"
+  },
+  {
+    "_id": "654389faa60c648621a706dd",
+    "name": "Automation Assessment"
+  },
+  {
+    "_id": "6486a65e34730cac6a480437",
+    "name": "Azure (Microsoft Azure)"
+  },
+  {
+    "_id": "654389faa60c648621a7088b",
+    "name": "Azure DevOps"
+  },
+  {
+    "_id": "654389faa60c648621a70713",
+    "name": "Azure DevOps Pipelines"
+  },
+  {
+    "_id": "654389faa60c648621a70885",
+    "name": "Azure Functions"
+  },
+  {
+    "_id": "654389faa60c648621a7085f",
+    "name": "Back-End Development"
+  },
+  {
+    "_id": "654389faa60c648621a70714",
+    "name": "Balanced Scorecard"
+  },
+  {
+    "_id": "654389faa60c648621a707e9",
+    "name": "Bamboo"
+  },
+  {
+    "_id": "654389faa60c648621a70889",
+    "name": "Basel III"
+  },
+  {
+    "_id": "654389faa60c648621a7078f",
+    "name": "Big Data"
+  },
+  {
+    "_id": "654389faa60c648621a70891",
+    "name": "BigML"
+  },
+  {
+    "_id": "654389faa60c648621a707f0",
+    "name": "Bitbucket"
+  },
+  {
+    "_id": "654389faa60c648621a70795",
+    "name": "Blender"
+  },
+  {
+    "_id": "6486a65e34730cac6a480438",
+    "name": "Blockchain Development"
+  },
+  {
+    "_id": "654389faa60c648621a708ae",
+    "name": "Blogging"
+  },
+  {
+    "_id": "654389faa60c648621a706c1",
+    "name": "Bloomberg Terminal"
+  },
+  {
+    "_id": "654389faa60c648621a7087c",
+    "name": "Bookkeeping"
+  },
+  {
+    "_id": "6486a65e34730cac6a480439",
+    "name": "Bootstrap"
+  },
+  {
+    "_id": "654389faa60c648621a708ac",
+    "name": "Brand Awareness"
+  },
+  {
+    "_id": "654389faa60c648621a707b9",
+    "name": "Brand Development"
+  },
+  {
+    "_id": "654389faa60c648621a70755",
+    "name": "Brand Guidelines"
+  },
+  {
+    "_id": "654389faa60c648621a70765",
+    "name": "Brand Identity"
+  },
+  {
+    "_id": "654389faa60c648621a707b5",
+    "name": "Brand Strategy"
+  },
+  {
+    "_id": "654389faa60c648621a706c0",
+    "name": "Budget Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a70727",
+    "name": "Budgeting"
+  },
+  {
+    "_id": "654389faa60c648621a70785",
+    "name": "Budgeting and Forecasting"
+  },
+  {
+    "_id": "654389faa60c648621a70728",
+    "name": "Burp Suite"
+  },
+  {
+    "_id": "654389faa60c648621a7086d",
+    "name": "Business Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a7087b",
+    "name": "Business Continuity Planning"
+  },
+  {
+    "_id": "6486a65e34730cac6a48043a",
+    "name": "Business Intelligence"
+  },
+  {
+    "_id": "654389faa60c648621a70743",
+    "name": "Business Process Mapping"
+  },
+  {
+    "_id": "654389faa60c648621a706b5",
+    "name": "Business Process Modeling"
+  },
+  {
+    "_id": "654389faa60c648621a70858",
+    "name": "C#"
+  },
+  {
+    "_id": "6486a65e34730cac6a48043b",
+    "name": "C++"
+  },
+  {
+    "_id": "654389faa60c648621a70855",
+    "name": "CAD (Computer-Aided Design)"
+  },
+  {
+    "_id": "654389faa60c648621a7087a",
+    "name": "CATIA"
+  },
+  {
+    "_id": "654389faa60c648621a7082b",
+    "name": "CRM (Customer Relationship Management)"
+  },
+  {
+    "_id": "654389faa60c648621a7089c",
+    "name": "CRM Software"
+  },
+  {
+    "_id": "654389faa60c648621a7085e",
+    "name": "Caffe"
+  },
+  {
+    "_id": "654389faa60c648621a7073e",
+    "name": "Campaign Execution"
+  },
+  {
+    "_id": "654389faa60c648621a706dc",
+    "name": "Campaign Management"
+  },
+  {
+    "_id": "654389faa60c648621a707fa",
+    "name": "Campaign Planning"
+  },
+  {
+    "_id": "654389faa60c648621a707d8",
+    "name": "Capital Allocation"
+  },
+  {
+    "_id": "654389faa60c648621a70790",
+    "name": "Capital Budgeting"
+  },
+  {
+    "_id": "654389faa60c648621a7081b",
+    "name": "Capital Structure"
+  },
+  {
+    "_id": "654389faa60c648621a707a8",
+    "name": "Cash Flow Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a70769",
+    "name": "Cassandra"
+  },
+  {
+    "_id": "654389faa60c648621a708b2",
+    "name": "Change Management"
+  },
+  {
+    "_id": "654389faa60c648621a7079e",
+    "name": "Change Planning and Execution"
+  },
+  {
+    "_id": "654389faa60c648621a70899",
+    "name": "Checkstyle"
+  },
+  {
+    "_id": "6486a65e34730cac6a48043c",
+    "name": "Chef"
+  },
+  {
+    "_id": "654389faa60c648621a707b3",
+    "name": "CircleCI"
+  },
+  {
+    "_id": "6486a65e34730cac6a48043d",
+    "name": "Cloud Architecture (AWS, Azure, Google Cloud)"
+  },
+  {
+    "_id": "654389faa60c648621a7088a",
+    "name": "Cloud Security"
+  },
+  {
+    "_id": "654389faa60c648621a707fc",
+    "name": "Code Review and Collaboration:"
+  },
+  {
+    "_id": "654389faa60c648621a706e4",
+    "name": "Cognitive Toolkit"
+  },
+  {
+    "_id": "654389faa60c648621a707b1",
+    "name": "Commercial Banking"
+  },
+  {
+    "_id": "654389faa60c648621a708c6",
+    "name": "Commercial Litigation"
+  },
+  {
+    "_id": "654389faa60c648621a707dc",
+    "name": "Communication"
+  },
+  {
+    "_id": "654389faa60c648621a707d1",
+    "name": "Communication Strategy"
+  },
+  {
+    "_id": "654389faa60c648621a708b7",
+    "name": "Community Management"
+  },
+  {
+    "_id": "654389faa60c648621a70789",
+    "name": "Competitive Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a7076c",
+    "name": "Compliance Documentation"
+  },
+  {
+    "_id": "654389faa60c648621a70882",
+    "name": "Compliance Management"
+  },
+  {
+    "_id": "654389faa60c648621a70740",
+    "name": "Compliance and Regulations"
+  },
+  {
+    "_id": "654389faa60c648621a7079f",
+    "name": "Compliance and Regulatory Affairs"
+  },
+  {
+    "_id": "654389faa60c648621a70815",
+    "name": "Computational Science"
+  },
+  {
+    "_id": "6486a65e34730cac6a48043e",
+    "name": "Computer Vision"
+  },
+  {
+    "_id": "654389faa60c648621a708be",
+    "name": "Confluence"
+  },
+  {
+    "_id": "654389faa60c648621a70703",
+    "name": "Containerization (Docker, Kubernetes)"
+  },
+  {
+    "_id": "6486a65e34730cac6a48043f",
+    "name": "Containerization (e.g., Docker, Kubernetes)"
+  },
+  {
+    "_id": "654389faa60c648621a70730",
+    "name": "Content Creation"
+  },
+  {
+    "_id": "654389faa60c648621a70829",
+    "name": "Content Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a7086f",
+    "name": "Content Scheduling"
+  },
+  {
+    "_id": "654389faa60c648621a7073f",
+    "name": "Content Strategy"
+  },
+  {
+    "_id": "654389faa60c648621a70796",
+    "name": "Continuous Deployment (CD)"
+  },
+  {
+    "_id": "654389faa60c648621a70745",
+    "name": "Continuous Improvement (Kaizen)"
+  },
+  {
+    "_id": "654389faa60c648621a706b8",
+    "name": "Continuous Integration (CI)"
+  },
+  {
+    "_id": "6486a65e34730cac6a480440",
+    "name": "Continuous Integration/Continuous Deployment (CI/CD)"
+  },
+  {
+    "_id": "654389faa60c648621a70780",
+    "name": "Contract Law"
+  },
+  {
+    "_id": "654389faa60c648621a70747",
+    "name": "Contract Negotiation"
+  },
+  {
+    "_id": "654389faa60c648621a7072f",
+    "name": "Conversion Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a70777",
+    "name": "Conversion Rate Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a708c7",
+    "name": "Copywriting"
+  },
+  {
+    "_id": "654389faa60c648621a706fd",
+    "name": "Corporate Communications"
+  },
+  {
+    "_id": "654389faa60c648621a706bb",
+    "name": "Corporate Governance"
+  },
+  {
+    "_id": "654389faa60c648621a707ed",
+    "name": "Corporate Law"
+  },
+  {
+    "_id": "654389faa60c648621a70841",
+    "name": "Cost Accounting"
+  },
+  {
+    "_id": "654389faa60c648621a707b8",
+    "name": "Cost Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a706bf",
+    "name": "Cost-Benefit Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a707dd",
+    "name": "CouchDB"
+  },
+  {
+    "_id": "654389faa60c648621a707c8",
+    "name": "Creative Direction"
+  },
+  {
+    "_id": "654389faa60c648621a707d0",
+    "name": "Credit Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a70853",
+    "name": "Credit Risk Assessment"
+  },
+  {
+    "_id": "654389faa60c648621a70726",
+    "name": "Creo"
+  },
+  {
+    "_id": "654389faa60c648621a70757",
+    "name": "Crisis Management"
+  },
+  {
+    "_id": "654389faa60c648621a7078a",
+    "name": "Critical Thinking"
+  },
+  {
+    "_id": "6486a65e34730cac6a480441",
+    "name": "Cross-platform Development"
+  },
+  {
+    "_id": "654389faa60c648621a70753",
+    "name": "Crucible"
+  },
+  {
+    "_id": "654389faa60c648621a707b7",
+    "name": "Cryptocurrency"
+  },
+  {
+    "_id": "6486a65e34730cac6a480442",
+    "name": "Cryptography"
+  },
+  {
+    "_id": "654389faa60c648621a70784",
+    "name": "Customer Communication"
+  },
+  {
+    "_id": "654389faa60c648621a7082d",
+    "name": "Customer Insights"
+  },
+  {
+    "_id": "654389faa60c648621a7071f",
+    "name": "Customer Journey Mapping"
+  },
+  {
+    "_id": "654389faa60c648621a707d7",
+    "name": "Customer Retention"
+  },
+  {
+    "_id": "654389faa60c648621a706e9",
+    "name": "Customer Segmentation"
+  },
+  {
+    "_id": "654389faa60c648621a7088c",
+    "name": "Cybersecurity"
+  },
+  {
+    "_id": "6486a65e34730cac6a480443",
+    "name": "D3.js (Data-Driven Documents)"
+  },
+  {
+    "_id": "654389faa60c648621a7083e",
+    "name": "Dart"
+  },
+  {
+    "_id": "654389faa60c648621a708ad",
+    "name": "Dashboard Design"
+  },
+  {
+    "_id": "6486a65e34730cac6a480444",
+    "name": "Data Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a70843",
+    "name": "Data Analytics Tools"
+  },
+  {
+    "_id": "654389faa60c648621a706ba",
+    "name": "Data Collection and Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a706fe",
+    "name": "Data Governance"
+  },
+  {
+    "_id": "654389faa60c648621a7082a",
+    "name": "Data Mining"
+  },
+  {
+    "_id": "654389faa60c648621a707ca",
+    "name": "Data Privacy"
+  },
+  {
+    "_id": "654389faa60c648621a70821",
+    "name": "Data Privacy and Compliance"
+  },
+  {
+    "_id": "6486a65e34730cac6a480445",
+    "name": "Data Visualization"
+  },
+  {
+    "_id": "6486a65e34730cac6a480446",
+    "name": "Data Warehousing"
+  },
+  {
+    "_id": "654389faa60c648621a707af",
+    "name": "DataRobot"
+  },
+  {
+    "_id": "654389faa60c648621a708a4",
+    "name": "Database Administration"
+  },
+  {
+    "_id": "654389faa60c648621a70868",
+    "name": "Database Management:"
+  },
+  {
+    "_id": "654389faa60c648621a70832",
+    "name": "Databricks"
+  },
+  {
+    "_id": "654389faa60c648621a706e3",
+    "name": "Datadog"
+  },
+  {
+    "_id": "654389faa60c648621a70826",
+    "name": "Dataiku"
+  },
+  {
+    "_id": "654389faa60c648621a7071c",
+    "name": "Deal Structuring"
+  },
+  {
+    "_id": "654389faa60c648621a70771",
+    "name": "Debt and Equity Financing"
+  },
+  {
+    "_id": "654389faa60c648621a706f8",
+    "name": "Decision Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a7076d",
+    "name": "Decision-Making"
+  },
+  {
+    "_id": "654389faa60c648621a7089e",
+    "name": "Deep Learning"
+  },
+  {
+    "_id": "654389faa60c648621a70781",
+    "name": "Demand Forecasting"
+  },
+  {
+    "_id": "6486a65e34730cac6a480447",
+    "name": "DevOps"
+  },
+  {
+    "_id": "654389faa60c648621a708c0",
+    "name": "Dialogflow"
+  },
+  {
+    "_id": "654389faa60c648621a7082e",
+    "name": "Display Advertising"
+  },
+  {
+    "_id": "6486a65e34730cac6a480448",
+    "name": "Distributed Systems"
+  },
+  {
+    "_id": "654389faa60c648621a70859",
+    "name": "Diversification"
+  },
+  {
+    "_id": "654389faa60c648621a707cd",
+    "name": "Dividend Policy"
+  },
+  {
+    "_id": "6486a65e34730cac6a480449",
+    "name": "Django"
+  },
+  {
+    "_id": "6486a65e34730cac6a48044a",
+    "name": "Django REST Framework"
+  },
+  {
+    "_id": "654389faa60c648621a70791",
+    "name": "DocFX"
+  },
+  {
+    "_id": "6486a65e34730cac6a48044b",
+    "name": "Docker"
+  },
+  {
+    "_id": "654389faa60c648621a708ce",
+    "name": "Documentation Control"
+  },
+  {
+    "_id": "654389faa60c648621a7083f",
+    "name": "Documentation and Knowledge Management:"
+  },
+  {
+    "_id": "654389faa60c648621a7082c",
+    "name": "Docusaurus"
+  },
+  {
+    "_id": "654389faa60c648621a708b6",
+    "name": "Dodd-Frank Act"
+  },
+  {
+    "_id": "654389faa60c648621a706fc",
+    "name": "Doxygen"
+  },
+  {
+    "_id": "654389faa60c648621a70746",
+    "name": "Dredd"
+  },
+  {
+    "_id": "654389faa60c648621a706ca",
+    "name": "Due Diligence"
+  },
+  {
+    "_id": "654389faa60c648621a708af",
+    "name": "DynamoDB"
+  },
+  {
+    "_id": "654389faa60c648621a70775",
+    "name": "Dynatrace"
+  },
+  {
+    "_id": "654389faa60c648621a70734",
+    "name": "ELK Stack (Elasticsearch, Logstash, Kibana)"
+  },
+  {
+    "_id": "654389faa60c648621a706c2",
+    "name": "ELKI"
+  },
+  {
+    "_id": "654389faa60c648621a70800",
+    "name": "ESLint"
+  },
+  {
+    "_id": "6486a65e34730cac6a48044f",
+    "name": "ETL (Extract, Transform, Load)"
+  },
+  {
+    "_id": "654389faa60c648621a7072b",
+    "name": "Eclipse"
+  },
+  {
+    "_id": "654389faa60c648621a708b0",
+    "name": "Eclipse Plugins"
+  },
+  {
+    "_id": "654389faa60c648621a70731",
+    "name": "Economic Forecasting"
+  },
+  {
+    "_id": "654389faa60c648621a708a0",
+    "name": "Economic Indicators"
+  },
+  {
+    "_id": "654389faa60c648621a707df",
+    "name": "Editing and Proofreading"
+  },
+  {
+    "_id": "6486a65e34730cac6a48044c",
+    "name": "Elasticsearch"
+  },
+  {
+    "_id": "654389faa60c648621a706ff",
+    "name": "Email Campaigns"
+  },
+  {
+    "_id": "654389faa60c648621a7070d",
+    "name": "Email Copywriting"
+  },
+  {
+    "_id": "654389faa60c648621a7084e",
+    "name": "Email Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a708ca",
+    "name": "Embedded Systems"
+  },
+  {
+    "_id": "6486a65e34730cac6a48044d",
+    "name": "Embedded Systems Development"
+  },
+  {
+    "_id": "6486a65e34730cac6a48044e",
+    "name": "Ember.js"
+  },
+  {
+    "_id": "654389faa60c648621a70718",
+    "name": "Employment Contracts and Policies"
+  },
+  {
+    "_id": "654389faa60c648621a7081f",
+    "name": "Employment Law"
+  },
+  {
+    "_id": "654389faa60c648621a70816",
+    "name": "Enterprise Risk Management"
+  },
+  {
+    "_id": "654389faa60c648621a70711",
+    "name": "Environmental Law"
+  },
+  {
+    "_id": "654389faa60c648621a7087f",
+    "name": "Ethereum"
+  },
+  {
+    "_id": "654389faa60c648621a708bf",
+    "name": "Ethical Hacking"
+  },
+  {
+    "_id": "654389faa60c648621a7074b",
+    "name": "Event Coordination"
+  },
+  {
+    "_id": "654389faa60c648621a7077f",
+    "name": "Event Planning"
+  },
+  {
+    "_id": "654389faa60c648621a70877",
+    "name": "Event Promotion"
+  },
+  {
+    "_id": "654389faa60c648621a70864",
+    "name": "Excel Financial Modeling"
+  },
+  {
+    "_id": "654389faa60c648621a7071a",
+    "name": "Expense Tracking"
+  },
+  {
+    "_id": "654389faa60c648621a706c5",
+    "name": "Experiential Marketing"
+  },
+  {
+    "_id": "6486a65e34730cac6a480450",
+    "name": "Express.js"
+  },
+  {
+    "_id": "654389faa60c648621a706f9",
+    "name": "FASB (Financial Accounting Standards Board)"
+  },
+  {
+    "_id": "654389faa60c648621a707d3",
+    "name": "Failure Mode and Effects Analysis (FMEA)"
+  },
+  {
+    "_id": "654389faa60c648621a7071e",
+    "name": "Fault Tree Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a707f8",
+    "name": "Feasibility Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a707ae",
+    "name": "Financial Budgeting"
+  },
+  {
+    "_id": "654389faa60c648621a7070e",
+    "name": "Financial Derivatives"
+  },
+  {
+    "_id": "654389faa60c648621a70752",
+    "name": "Financial Forecasting"
+  },
+  {
+    "_id": "654389faa60c648621a70794",
+    "name": "Financial Modeling"
+  },
+  {
+    "_id": "654389faa60c648621a70787",
+    "name": "Financial Planning"
+  },
+  {
+    "_id": "654389faa60c648621a706ef",
+    "name": "Financial Presentations"
+  },
+  {
+    "_id": "654389faa60c648621a7077d",
+    "name": "Financial Products"
+  },
+  {
+    "_id": "654389faa60c648621a70725",
+    "name": "Financial Reporting"
+  },
+  {
+    "_id": "654389faa60c648621a7085c",
+    "name": "Financial Statements"
+  },
+  {
+    "_id": "654389faa60c648621a706de",
+    "name": "Financial Writing"
+  },
+  {
+    "_id": "6486a65e34730cac6a480451",
+    "name": "Firebase"
+  },
+  {
+    "_id": "654389faa60c648621a7085d",
+    "name": "Fishbone Diagrams (Ishikawa)"
+  },
+  {
+    "_id": "6486a65e34730cac6a480452",
+    "name": "Flask"
+  },
+  {
+    "_id": "6486a65e34730cac6a480453",
+    "name": "Flutter"
+  },
+  {
+    "_id": "654389faa60c648621a707a3",
+    "name": "Focus Groups"
+  },
+  {
+    "_id": "654389faa60c648621a7076f",
+    "name": "Forecasting"
+  },
+  {
+    "_id": "654389faa60c648621a706b7",
+    "name": "Fortify"
+  },
+  {
+    "_id": "654389faa60c648621a706c3",
+    "name": "Front-End Development"
+  },
+  {
+    "_id": "654389faa60c648621a70712",
+    "name": "Full-Stack Development"
+  },
+  {
+    "_id": "654389faa60c648621a7081d",
+    "name": "GAAP (Generally Accepted Accounting Principles)"
+  },
+  {
+    "_id": "654389faa60c648621a7070a",
+    "name": "Game Development"
+  },
+  {
+    "_id": "654389faa60c648621a70760",
+    "name": "Gap Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a706ed",
+    "name": "Gatling"
+  },
+  {
+    "_id": "654389faa60c648621a70762",
+    "name": "Gatsby"
+  },
+  {
+    "_id": "654389faa60c648621a708cb",
+    "name": "Gensim"
+  },
+  {
+    "_id": "6486a65e34730cac6a480454",
+    "name": "Git"
+  },
+  {
+    "_id": "654389faa60c648621a70879",
+    "name": "GitHub"
+  },
+  {
+    "_id": "654389faa60c648621a706e7",
+    "name": "GitHub Projects"
+  },
+  {
+    "_id": "654389faa60c648621a706d7",
+    "name": "GitHub Wiki"
+  },
+  {
+    "_id": "654389faa60c648621a706cf",
+    "name": "GitLab"
+  },
+  {
+    "_id": "654389faa60c648621a708d1",
+    "name": "GitLab CI/CD"
+  },
+  {
+    "_id": "654389faa60c648621a706f1",
+    "name": "Go (Golang)"
+  },
+  {
+    "_id": "654389faa60c648621a70896",
+    "name": "Google Cloud AI"
+  },
+  {
+    "_id": "654389faa60c648621a707da",
+    "name": "Google Cloud AutoML"
+  },
+  {
+    "_id": "654389faa60c648621a70773",
+    "name": "Google Cloud Functions"
+  },
+  {
+    "_id": "654389faa60c648621a708b3",
+    "name": "Google Cloud Platform (GCP)"
+  },
+  {
+    "_id": "654389faa60c648621a7081a",
+    "name": "Google Cloud Speech-to-Text"
+  },
+  {
+    "_id": "654389faa60c648621a708c8",
+    "name": "Google Docs"
+  },
+  {
+    "_id": "654389faa60c648621a70825",
+    "name": "Google PageSpeed Insights"
+  },
+  {
+    "_id": "654389faa60c648621a707e2",
+    "name": "Gradle"
+  },
+  {
+    "_id": "654389faa60c648621a7084b",
+    "name": "Grafana"
+  },
+  {
+    "_id": "6486a65e34730cac6a480455",
+    "name": "GraphQL"
+  },
+  {
+    "_id": "654389faa60c648621a70836",
+    "name": "Graphic Design"
+  },
+  {
+    "_id": "654389faa60c648621a707f2",
+    "name": "Graylog"
+  },
+  {
+    "_id": "654389faa60c648621a7070c",
+    "name": "Groovy"
+  },
+  {
+    "_id": "654389faa60c648621a706f6",
+    "name": "Grunt"
+  },
+  {
+    "_id": "654389faa60c648621a708d4",
+    "name": "Gulp"
+  },
+  {
+    "_id": "654389faa60c648621a70717",
+    "name": "H2O.ai"
+  },
+  {
+    "_id": "6486a65e34730cac6a480457",
+    "name": "HTML/CSS"
+  },
+  {
+    "_id": "6486a65e34730cac6a480456",
+    "name": "Hadoop"
+  },
+  {
+    "_id": "654389faa60c648621a7078d",
+    "name": "Hugo"
+  },
+  {
+    "_id": "654389faa60c648621a706d1",
+    "name": "Human Resource Allocation"
+  },
+  {
+    "_id": "654389faa60c648621a70809",
+    "name": "Hyperledger Fabric"
+  },
+  {
+    "_id": "654389faa60c648621a7084a",
+    "name": "IBM Cloud"
+  },
+  {
+    "_id": "654389faa60c648621a70898",
+    "name": "IBM Cloud Functions"
+  },
+  {
+    "_id": "654389faa60c648621a7080c",
+    "name": "IBM Watson"
+  },
+  {
+    "_id": "654389faa60c648621a70764",
+    "name": "IBM Watson Natural Language"
+  },
+  {
+    "_id": "654389faa60c648621a706c7",
+    "name": "IBM Watson Studio"
+  },
+  {
+    "_id": "654389faa60c648621a7089d",
+    "name": "IFRS (International Financial Reporting Standards)"
+  },
+  {
+    "_id": "654389faa60c648621a70778",
+    "name": "ISO Standards"
+  },
+  {
+    "_id": "654389faa60c648621a70707",
+    "name": "Icinga"
+  },
+  {
+    "_id": "654389faa60c648621a706fb",
+    "name": "Influencer Identification"
+  },
+  {
+    "_id": "654389faa60c648621a70869",
+    "name": "Influencer Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a7075b",
+    "name": "Influencer Outreach"
+  },
+  {
+    "_id": "654389faa60c648621a706f4",
+    "name": "Infographic Design"
+  },
+  {
+    "_id": "6486a65e34730cac6a480458",
+    "name": "Information Architecture"
+  },
+  {
+    "_id": "654389faa60c648621a7076b",
+    "name": "Information Security"
+  },
+  {
+    "_id": "654389faa60c648621a708c3",
+    "name": "Insomnia"
+  },
+  {
+    "_id": "654389faa60c648621a70702",
+    "name": "Instana"
+  },
+  {
+    "_id": "654389faa60c648621a707c0",
+    "name": "Intellectual Property (IP) Law"
+  },
+  {
+    "_id": "654389faa60c648621a7088e",
+    "name": "IntelliJ IDEA"
+  },
+  {
+    "_id": "654389faa60c648621a706d5",
+    "name": "IntelliJ IDEA Plugins"
+  },
+  {
+    "_id": "654389faa60c648621a70866",
+    "name": "International Business Law"
+  },
+  {
+    "_id": "6486a65e34730cac6a480459",
+    "name": "Internet of Things (IoT) Development"
+  },
+  {
+    "_id": "654389faa60c648621a707c9",
+    "name": "Inventory Control"
+  },
+  {
+    "_id": "654389faa60c648621a7084c",
+    "name": "Inventory Management"
+  },
+  {
+    "_id": "654389faa60c648621a707ec",
+    "name": "Inventory Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a706e5",
+    "name": "Inventory Valuation"
+  },
+  {
+    "_id": "654389faa60c648621a70860",
+    "name": "Investment Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a70852",
+    "name": "Investment Management"
+  },
+  {
+    "_id": "654389faa60c648621a7089f",
+    "name": "Investment Strategy"
+  },
+  {
+    "_id": "654389faa60c648621a7077a",
+    "name": "Investor Relations"
+  },
+  {
+    "_id": "654389faa60c648621a706f5",
+    "name": "IoT Analytics"
+  },
+  {
+    "_id": "654389faa60c648621a70872",
+    "name": "IoT Development"
+  },
+  {
+    "_id": "654389faa60c648621a707c2",
+    "name": "IoT Protocols"
+  },
+  {
+    "_id": "654389faa60c648621a707f5",
+    "name": "IoT Security"
+  },
+  {
+    "_id": "654389faa60c648621a707ad",
+    "name": "Ionic"
+  },
+  {
+    "_id": "654389faa60c648621a7080d",
+    "name": "JIT (Just-in-Time) Inventory"
+  },
+  {
+    "_id": "6486a65e34730cac6a48045e",
+    "name": "JUnit"
+  },
+  {
+    "_id": "6486a65e34730cac6a48045a",
+    "name": "Java"
+  },
+  {
+    "_id": "6486a65e34730cac6a48045b",
+    "name": "JavaScript"
+  },
+  {
+    "_id": "654389faa60c648621a70897",
+    "name": "Javadoc"
+  },
+  {
+    "_id": "654389faa60c648621a70881",
+    "name": "Jekyll"
+  },
+  {
+    "_id": "6486a65e34730cac6a48045c",
+    "name": "Jenkins"
+  },
+  {
+    "_id": "654389faa60c648621a70895",
+    "name": "Jira"
+  },
+  {
+    "_id": "654389faa60c648621a70851",
+    "name": "KNIME"
+  },
+  {
+    "_id": "6486a65e34730cac6a48045f",
+    "name": "Kanban"
+  },
+  {
+    "_id": "654389faa60c648621a70770",
+    "name": "Keras"
+  },
+  {
+    "_id": "654389faa60c648621a70817",
+    "name": "Key Performance Indicators"
+  },
+  {
+    "_id": "654389faa60c648621a7070f",
+    "name": "Know Your Customer (KYC)"
+  },
+  {
+    "_id": "6486a65e34730cac6a480460",
+    "name": "Kotlin"
+  },
+  {
+    "_id": "6486a65e34730cac6a480461",
+    "name": "Kubernetes"
+  },
+  {
+    "_id": "6486a65e34730cac6a480462",
+    "name": "Laravel"
+  },
+  {
+    "_id": "654389faa60c648621a707ab",
+    "name": "LaunchDarkly"
+  },
+  {
+    "_id": "654389faa60c648621a70806",
+    "name": "Lead Generation"
+  },
+  {
+    "_id": "654389faa60c648621a7072d",
+    "name": "Lead Management"
+  },
+  {
+    "_id": "654389faa60c648621a7075f",
+    "name": "Lead Nurturing"
+  },
+  {
+    "_id": "654389faa60c648621a70768",
+    "name": "Lean Methodology"
+  },
+  {
+    "_id": "654389faa60c648621a70833",
+    "name": "Legal Drafting"
+  },
+  {
+    "_id": "654389faa60c648621a7086e",
+    "name": "Legal Research"
+  },
+  {
+    "_id": "654389faa60c648621a70723",
+    "name": "Linear and Non-Linear Programming"
+  },
+  {
+    "_id": "654389faa60c648621a707c1",
+    "name": "List Segmentation"
+  },
+  {
+    "_id": "654389faa60c648621a706bd",
+    "name": "Live Streaming"
+  },
+  {
+    "_id": "654389faa60c648621a7074f",
+    "name": "LoadRunner"
+  },
+  {
+    "_id": "654389faa60c648621a706cb",
+    "name": "Location-Based Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a70893",
+    "name": "Locust"
+  },
+  {
+    "_id": "654389faa60c648621a708c1",
+    "name": "Loggly"
+  },
+  {
+    "_id": "654389faa60c648621a70849",
+    "name": "Logistics and Distribution"
+  },
+  {
+    "_id": "654389faa60c648621a708b4",
+    "name": "Logo Design"
+  },
+  {
+    "_id": "654389faa60c648621a708ab",
+    "name": "Lua"
+  },
+  {
+    "_id": "654389faa60c648621a70793",
+    "name": "Ludwig"
+  },
+  {
+    "_id": "654389faa60c648621a708a9",
+    "name": "M&A Advisory"
+  },
+  {
+    "_id": "654389faa60c648621a707e6",
+    "name": "MATLAB"
+  },
+  {
+    "_id": "654389faa60c648621a70888",
+    "name": "MSBuild"
+  },
+  {
+    "_id": "6486a65e34730cac6a480463",
+    "name": "Machine Learning"
+  },
+  {
+    "_id": "654389faa60c648621a706f2",
+    "name": "Macroeconomics"
+  },
+  {
+    "_id": "654389faa60c648621a70837",
+    "name": "Mahout"
+  },
+  {
+    "_id": "654389faa60c648621a706c8",
+    "name": "Make"
+  },
+  {
+    "_id": "654389faa60c648621a7072e",
+    "name": "Managerial Accounting"
+  },
+  {
+    "_id": "654389faa60c648621a70705",
+    "name": "Market Research"
+  },
+  {
+    "_id": "654389faa60c648621a707e4",
+    "name": "Market Risk Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a707b4",
+    "name": "Market Segmentation"
+  },
+  {
+    "_id": "654389faa60c648621a706e2",
+    "name": "Marketing Analytics"
+  },
+  {
+    "_id": "654389faa60c648621a7088f",
+    "name": "Marketing Automation"
+  },
+  {
+    "_id": "654389faa60c648621a706e8",
+    "name": "Marketing Automation Tools"
+  },
+  {
+    "_id": "654389faa60c648621a708d0",
+    "name": "Marketing Budgeting"
+  },
+  {
+    "_id": "654389faa60c648621a708cd",
+    "name": "Marketing Planning"
+  },
+  {
+    "_id": "654389faa60c648621a707c5",
+    "name": "Marketing Platforms"
+  },
+  {
+    "_id": "654389faa60c648621a707b2",
+    "name": "Mathematical Modeling"
+  },
+  {
+    "_id": "654389faa60c648621a70738",
+    "name": "Maven"
+  },
+  {
+    "_id": "654389faa60c648621a70845",
+    "name": "Maven Central Repository"
+  },
+  {
+    "_id": "654389faa60c648621a708a5",
+    "name": "Media Buying"
+  },
+  {
+    "_id": "654389faa60c648621a707c3",
+    "name": "Media Relations"
+  },
+  {
+    "_id": "654389faa60c648621a708d3",
+    "name": "Mendix"
+  },
+  {
+    "_id": "654389faa60c648621a707de",
+    "name": "Mercurial"
+  },
+  {
+    "_id": "654389faa60c648621a70803",
+    "name": "Mergers and Acquisitions (M&A)"
+  },
+  {
+    "_id": "654389faa60c648621a70892",
+    "name": "Mergers and Acquisitions (M&A) Law"
+  },
+  {
+    "_id": "654389faa60c648621a70823",
+    "name": "Microeconomics"
+  },
+  {
+    "_id": "6486a65e34730cac6a480464",
+    "name": "Microfrontend Development"
+  },
+  {
+    "_id": "6486a65e34730cac6a480465",
+    "name": "Microservices"
+  },
+  {
+    "_id": "654389faa60c648621a707e0",
+    "name": "Microsoft Azure"
+  },
+  {
+    "_id": "654389faa60c648621a70835",
+    "name": "Microsoft Azure Machine Learning"
+  },
+  {
+    "_id": "654389faa60c648621a707f7",
+    "name": "Microsoft Cognitive Toolkit (CNTK)"
+  },
+  {
+    "_id": "654389faa60c648621a7084d",
+    "name": "Microsoft Office Suite"
+  },
+  {
+    "_id": "654389faa60c648621a706df",
+    "name": "Microsoft Power Apps"
+  },
+  {
+    "_id": "654389faa60c648621a708b5",
+    "name": "Microsoft Teams"
+  },
+  {
+    "_id": "654389faa60c648621a7085a",
+    "name": "Mobile Advertising"
+  },
+  {
+    "_id": "6486a65e34730cac6a480466",
+    "name": "Mobile App Development (iOS/Android)"
+  },
+  {
+    "_id": "6486a65e34730cac6a480467",
+    "name": "Mobile App Security"
+  },
+  {
+    "_id": "654389faa60c648621a707ba",
+    "name": "Mobile Website Optimization"
+  },
+  {
+    "_id": "6486a65e34730cac6a480468",
+    "name": "Mockito"
+  },
+  {
+    "_id": "6486a65e34730cac6a480469",
+    "name": "MongoDB"
+  },
+  {
+    "_id": "654389faa60c648621a706d4",
+    "name": "MySQL"
+  },
+  {
+    "_id": "654389faa60c648621a70824",
+    "name": "NLTK (Natural Language Toolkit)"
+  },
+  {
+    "_id": "654389faa60c648621a707e1",
+    "name": "NVIDIA Deep Learning SDK"
+  },
+  {
+    "_id": "654389faa60c648621a707aa",
+    "name": "Nagios"
+  },
+  {
+    "_id": "6486a65e34730cac6a48046a",
+    "name": "Natural Language Processing (NLP)"
+  },
+  {
+    "_id": "654389faa60c648621a70799",
+    "name": "Natural Language Understanding (NLU)"
+  },
+  {
+    "_id": "654389faa60c648621a7089a",
+    "name": "Neo4j"
+  },
+  {
+    "_id": "654389faa60c648621a70744",
+    "name": "Nessus"
+  },
+  {
+    "_id": "654389faa60c648621a7087d",
+    "name": "Network Security"
+  },
+  {
+    "_id": "654389faa60c648621a707a9",
+    "name": "Neural Networks"
+  },
+  {
+    "_id": "654389faa60c648621a707fd",
+    "name": "New Relic"
+  },
+  {
+    "_id": "654389faa60c648621a708aa",
+    "name": "Next.js"
+  },
+  {
+    "_id": "654389faa60c648621a7080f",
+    "name": "NoSQL"
+  },
+  {
+    "_id": "654389faa60c648621a706c4",
+    "name": "Nock"
+  },
+  {
+    "_id": "6486a65e34730cac6a48046b",
+    "name": "Node.js"
+  },
+  {
+    "_id": "654389faa60c648621a70801",
+    "name": "Notepad++"
+  },
+  {
+    "_id": "654389faa60c648621a70797",
+    "name": "Notion"
+  },
+  {
+    "_id": "654389faa60c648621a7076a",
+    "name": "NuGet (for .NET)"
+  },
+  {
+    "_id": "654389faa60c648621a706e1",
+    "name": "OWASP ZAP"
+  },
+  {
+    "_id": "654389faa60c648621a707ce",
+    "name": "Objective-C"
+  },
+  {
+    "_id": "654389faa60c648621a70786",
+    "name": "Octopus Deploy"
+  },
+  {
+    "_id": "654389faa60c648621a7070b",
+    "name": "Online Advertising"
+  },
+  {
+    "_id": "654389faa60c648621a707c6",
+    "name": "OpenAPI/Swagger"
+  },
+  {
+    "_id": "654389faa60c648621a707ff",
+    "name": "OpenCV"
+  },
+  {
+    "_id": "654389faa60c648621a70856",
+    "name": "Operational Risk Management"
+  },
+  {
+    "_id": "654389faa60c648621a70807",
+    "name": "Operations Research"
+  },
+  {
+    "_id": "654389faa60c648621a707d5",
+    "name": "Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a70750",
+    "name": "Optimizely"
+  },
+  {
+    "_id": "654389faa60c648621a708c2",
+    "name": "Orange"
+  },
+  {
+    "_id": "654389faa60c648621a708d2",
+    "name": "OutSystems"
+  },
+  {
+    "_id": "6486a65e34730cac6a48046c",
+    "name": "PHP"
+  },
+  {
+    "_id": "654389faa60c648621a708bb",
+    "name": "Papertrail"
+  },
+  {
+    "_id": "654389faa60c648621a708c5",
+    "name": "Pareto Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a706b6",
+    "name": "Pay-Per-Click Advertising (PPC)"
+  },
+  {
+    "_id": "654389faa60c648621a7073d",
+    "name": "Penetration Testing"
+  },
+  {
+    "_id": "654389faa60c648621a70875",
+    "name": "Performance Evaluation"
+  },
+  {
+    "_id": "654389faa60c648621a707b6",
+    "name": "Performance Metrics"
+  },
+  {
+    "_id": "654389faa60c648621a70830",
+    "name": "Performance Metrics and KPIs"
+  },
+  {
+    "_id": "654389faa60c648621a706d6",
+    "name": "Perl"
+  },
+  {
+    "_id": "654389faa60c648621a7080a",
+    "name": "Pitch Book Preparation"
+  },
+  {
+    "_id": "654389faa60c648621a707bc",
+    "name": "Portfolio Evaluation"
+  },
+  {
+    "_id": "654389faa60c648621a70735",
+    "name": "Portfolio Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a708cc",
+    "name": "Positioning"
+  },
+  {
+    "_id": "6486a65e34730cac6a48046d",
+    "name": "PostgreSQL"
+  },
+  {
+    "_id": "654389faa60c648621a70848",
+    "name": "Postman"
+  },
+  {
+    "_id": "654389faa60c648621a707e8",
+    "name": "Power BI"
+  },
+  {
+    "_id": "654389faa60c648621a707a0",
+    "name": "Predictive Modeling"
+  },
+  {
+    "_id": "654389faa60c648621a707eb",
+    "name": "Presentation Skills"
+  },
+  {
+    "_id": "654389faa60c648621a70748",
+    "name": "Press Releases"
+  },
+  {
+    "_id": "654389faa60c648621a708b8",
+    "name": "Private Equity"
+  },
+  {
+    "_id": "654389faa60c648621a70751",
+    "name": "Pro/ENGINEER"
+  },
+  {
+    "_id": "654389faa60c648621a7077c",
+    "name": "Problem-Solving"
+  },
+  {
+    "_id": "654389faa60c648621a70776",
+    "name": "Process Documentation"
+  },
+  {
+    "_id": "654389faa60c648621a7081c",
+    "name": "Process Flowcharts"
+  },
+  {
+    "_id": "654389faa60c648621a707e5",
+    "name": "Process Improvement"
+  },
+  {
+    "_id": "654389faa60c648621a707f6",
+    "name": "Process Metrics and KPIs"
+  },
+  {
+    "_id": "654389faa60c648621a706d2",
+    "name": "Process Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a7074c",
+    "name": "Process Reengineering"
+  },
+  {
+    "_id": "654389faa60c648621a7074a",
+    "name": "Procurement and Sourcing"
+  },
+  {
+    "_id": "654389faa60c648621a706c9",
+    "name": "Product Management"
+  },
+  {
+    "_id": "654389faa60c648621a706fa",
+    "name": "Profit and Loss Analysis"
+  },
+  {
+    "_id": "6486a65e34730cac6a48046e",
+    "name": "Progressive Web Apps (PWA)"
+  },
+  {
+    "_id": "654389faa60c648621a70894",
+    "name": "Project Coordination"
+  },
+  {
+    "_id": "654389faa60c648621a70716",
+    "name": "Project Documentation"
+  },
+  {
+    "_id": "654389faa60c648621a7081e",
+    "name": "Project Management"
+  },
+  {
+    "_id": "654389faa60c648621a70700",
+    "name": "Project Planning and Execution"
+  },
+  {
+    "_id": "654389faa60c648621a70842",
+    "name": "Prometheus"
+  },
+  {
+    "_id": "654389faa60c648621a707e7",
+    "name": "Prophet"
+  },
+  {
+    "_id": "654389faa60c648621a707d4",
+    "name": "Public Speaking"
+  },
+  {
+    "_id": "6486a65e34730cac6a48046f",
+    "name": "Puppet"
+  },
+  {
+    "_id": "6486a65e34730cac6a480471",
+    "name": "PyTorch"
+  },
+  {
+    "_id": "654389faa60c648621a70742",
+    "name": "Pylint"
+  },
+  {
+    "_id": "6486a65e34730cac6a480470",
+    "name": "Python"
+  },
+  {
+    "_id": "654389faa60c648621a7072c",
+    "name": "Quality Control"
+  },
+  {
+    "_id": "654389faa60c648621a70772",
+    "name": "Quality Management"
+  },
+  {
+    "_id": "654389faa60c648621a70798",
+    "name": "Quantum Algorithms"
+  },
+  {
+    "_id": "6486a65e34730cac6a480472",
+    "name": "Quantum Computing"
+  },
+  {
+    "_id": "654389faa60c648621a7078b",
+    "name": "Quantum Cryptography"
+  },
+  {
+    "_id": "654389faa60c648621a7083c",
+    "name": "Quantum Programming"
+  },
+  {
+    "_id": "654389faa60c648621a7073c",
+    "name": "R"
+  },
+  {
+    "_id": "6486a65e34730cac6a480479",
+    "name": "RESTful APIs"
+  },
+  {
+    "_id": "654389faa60c648621a70756",
+    "name": "ROI (Return on Investment)"
+  },
+  {
+    "_id": "654389faa60c648621a70876",
+    "name": "Rake"
+  },
+  {
+    "_id": "654389faa60c648621a707f3",
+    "name": "RapidMiner"
+  },
+  {
+    "_id": "654389faa60c648621a7083b",
+    "name": "Ratio Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a708a1",
+    "name": "React"
+  },
+  {
+    "_id": "6486a65e34730cac6a480473",
+    "name": "React Native"
+  },
+  {
+    "_id": "6486a65e34730cac6a480474",
+    "name": "React.js"
+  },
+  {
+    "_id": "654389faa60c648621a706d0",
+    "name": "Real Estate Law"
+  },
+  {
+    "_id": "654389faa60c648621a7078e",
+    "name": "Records Management"
+  },
+  {
+    "_id": "6486a65e34730cac6a480475",
+    "name": "Redis"
+  },
+  {
+    "_id": "6486a65e34730cac6a480476",
+    "name": "Redux"
+  },
+  {
+    "_id": "654389faa60c648621a707ee",
+    "name": "Regulatory Compliance"
+  },
+  {
+    "_id": "6486a65e34730cac6a480477",
+    "name": "Reinforcement Learning"
+  },
+  {
+    "_id": "654389faa60c648621a70844",
+    "name": "Relational Databases"
+  },
+  {
+    "_id": "654389faa60c648621a7074d",
+    "name": "Relationship Building"
+  },
+  {
+    "_id": "654389faa60c648621a7088d",
+    "name": "Relationship Management"
+  },
+  {
+    "_id": "654389faa60c648621a70782",
+    "name": "Reporting"
+  },
+  {
+    "_id": "654389faa60c648621a707c4",
+    "name": "Reputation Management"
+  },
+  {
+    "_id": "654389faa60c648621a7079c",
+    "name": "Requirements Gathering"
+  },
+  {
+    "_id": "654389faa60c648621a70831",
+    "name": "Resistance Management"
+  },
+  {
+    "_id": "654389faa60c648621a7086c",
+    "name": "Resource Allocation"
+  },
+  {
+    "_id": "654389faa60c648621a707cf",
+    "name": "Resource Capacity Planning"
+  },
+  {
+    "_id": "654389faa60c648621a70890",
+    "name": "Resource Planning and Allocation:"
+  },
+  {
+    "_id": "654389faa60c648621a706bc",
+    "name": "Resource Scheduling"
+  },
+  {
+    "_id": "6486a65e34730cac6a480478",
+    "name": "Responsive Web Design"
+  },
+  {
+    "_id": "654389faa60c648621a707d6",
+    "name": "Retail Banking"
+  },
+  {
+    "_id": "654389faa60c648621a70736",
+    "name": "Retail Lending"
+  },
+  {
+    "_id": "654389faa60c648621a70732",
+    "name": "Revit"
+  },
+  {
+    "_id": "654389faa60c648621a70739",
+    "name": "Risk Assessment"
+  },
+  {
+    "_id": "654389faa60c648621a706b4",
+    "name": "Risk Assessment and Mitigation"
+  },
+  {
+    "_id": "654389faa60c648621a70883",
+    "name": "Risk Identification"
+  },
+  {
+    "_id": "654389faa60c648621a70820",
+    "name": "Risk Management"
+  },
+  {
+    "_id": "654389faa60c648621a7071b",
+    "name": "Risk Mitigation"
+  },
+  {
+    "_id": "654389faa60c648621a706d9",
+    "name": "Risk-Adjusted Returns"
+  },
+  {
+    "_id": "6486a65e34730cac6a48047a",
+    "name": "Robotic Process Automation (RPA)"
+  },
+  {
+    "_id": "654389faa60c648621a707a7",
+    "name": "Root Cause Analysis"
+  },
+  {
+    "_id": "6486a65e34730cac6a48047b",
+    "name": "Ruby"
+  },
+  {
+    "_id": "6486a65e34730cac6a48047c",
+    "name": "Ruby on Rails"
+  },
+  {
+    "_id": "654389faa60c648621a70808",
+    "name": "Rust"
+  },
+  {
+    "_id": "654389faa60c648621a708a6",
+    "name": "SMS Marketing"
+  },
+  {
+    "_id": "6486a65e34730cac6a480486",
+    "name": "SQL"
+  },
+  {
+    "_id": "654389faa60c648621a706be",
+    "name": "SWOT Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a707b0",
+    "name": "Sales Collateral Creation"
+  },
+  {
+    "_id": "654389faa60c648621a70710",
+    "name": "Sales Funnel Design"
+  },
+  {
+    "_id": "654389faa60c648621a707ac",
+    "name": "Sales Pipeline Management"
+  },
+  {
+    "_id": "654389faa60c648621a70838",
+    "name": "Sarbanes-Oxley Act (SOX)"
+  },
+  {
+    "_id": "6486a65e34730cac6a48047d",
+    "name": "Sass"
+  },
+  {
+    "_id": "654389faa60c648621a70863",
+    "name": "Scala"
+  },
+  {
+    "_id": "6486a65e34730cac6a48047e",
+    "name": "Scalability and Performance Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a706da",
+    "name": "Scikit-Learn"
+  },
+  {
+    "_id": "6486a65e34730cac6a48047f",
+    "name": "Scrum"
+  },
+  {
+    "_id": "654389faa60c648621a70813",
+    "name": "Search Engine Optimization (SEO)"
+  },
+  {
+    "_id": "6486a65e34730cac6a480480",
+    "name": "Secure Coding Practices"
+  },
+  {
+    "_id": "654389faa60c648621a706db",
+    "name": "Securities Regulation"
+  },
+  {
+    "_id": "654389faa60c648621a70827",
+    "name": "Security Assessment"
+  },
+  {
+    "_id": "654389faa60c648621a706b9",
+    "name": "Security Engineering"
+  },
+  {
+    "_id": "6486a65e34730cac6a480481",
+    "name": "Selenium"
+  },
+  {
+    "_id": "654389faa60c648621a707db",
+    "name": "Sensitivity Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a706ec",
+    "name": "Sensu"
+  },
+  {
+    "_id": "6486a65e34730cac6a480482",
+    "name": "Server-Side Rendering (SSR)"
+  },
+  {
+    "_id": "6486a65e34730cac6a480483",
+    "name": "Serverless Architecture"
+  },
+  {
+    "_id": "654389faa60c648621a70867",
+    "name": "Shell Scripting"
+  },
+  {
+    "_id": "654389faa60c648621a707bd",
+    "name": "Siemens NX"
+  },
+  {
+    "_id": "654389faa60c648621a7083d",
+    "name": "Simulation"
+  },
+  {
+    "_id": "654389faa60c648621a70749",
+    "name": "Sinon.js"
+  },
+  {
+    "_id": "654389faa60c648621a70724",
+    "name": "Six Sigma"
+  },
+  {
+    "_id": "654389faa60c648621a70783",
+    "name": "SketchUp"
+  },
+  {
+    "_id": "654389faa60c648621a70884",
+    "name": "Slack"
+  },
+  {
+    "_id": "654389faa60c648621a70839",
+    "name": "Smart Contracts"
+  },
+  {
+    "_id": "654389faa60c648621a7080e",
+    "name": "SoapUI"
+  },
+  {
+    "_id": "654389faa60c648621a7086b",
+    "name": "Social Media Advertising"
+  },
+  {
+    "_id": "654389faa60c648621a707fe",
+    "name": "Social Media Analytics"
+  },
+  {
+    "_id": "654389faa60c648621a70834",
+    "name": "Social Media Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a708a2",
+    "name": "Social Media Strategy"
+  },
+  {
+    "_id": "654389faa60c648621a708b9",
+    "name": "SolidWorks"
+  },
+  {
+    "_id": "654389faa60c648621a70865",
+    "name": "Solidity"
+  },
+  {
+    "_id": "6486a65e34730cac6a480484",
+    "name": "Solidity (language for smart contracts)"
+  },
+  {
+    "_id": "654389faa60c648621a708cf",
+    "name": "SonarLint"
+  },
+  {
+    "_id": "654389faa60c648621a706ea",
+    "name": "SonarQube"
+  },
+  {
+    "_id": "654389faa60c648621a70811",
+    "name": "SpaCy"
+  },
+  {
+    "_id": "654389faa60c648621a70737",
+    "name": "Spark"
+  },
+  {
+    "_id": "654389faa60c648621a708bc",
+    "name": "Sphinx"
+  },
+  {
+    "_id": "654389faa60c648621a70758",
+    "name": "Spinnaker"
+  },
+  {
+    "_id": "654389faa60c648621a7087e",
+    "name": "Split"
+  },
+  {
+    "_id": "654389faa60c648621a707bb",
+    "name": "Splunk"
+  },
+  {
+    "_id": "654389faa60c648621a7071d",
+    "name": "Sponsorship Management"
+  },
+  {
+    "_id": "6486a65e34730cac6a480485",
+    "name": "Spring Framework"
+  },
+  {
+    "_id": "654389faa60c648621a7083a",
+    "name": "Stakeholder Engagement"
+  },
+  {
+    "_id": "654389faa60c648621a70818",
+    "name": "Standard Operating Procedures (SOPs)"
+  },
+  {
+    "_id": "654389faa60c648621a706f3",
+    "name": "Stock Replenishment"
+  },
+  {
+    "_id": "654389faa60c648621a706e6",
+    "name": "Storytelling"
+  },
+  {
+    "_id": "654389faa60c648621a708a7",
+    "name": "Strategic Sourcing"
+  },
+  {
+    "_id": "6486a65e34730cac6a480487",
+    "name": "Stream Processing"
+  },
+  {
+    "_id": "654389faa60c648621a7072a",
+    "name": "Stress Management"
+  },
+  {
+    "_id": "654389faa60c648621a7078c",
+    "name": "Stress Testing"
+  },
+  {
+    "_id": "654389faa60c648621a70805",
+    "name": "Sublime Text"
+  },
+  {
+    "_id": "654389faa60c648621a70754",
+    "name": "Subversion (SVN)"
+  },
+  {
+    "_id": "654389faa60c648621a70759",
+    "name": "Supplier Relationship Management"
+  },
+  {
+    "_id": "654389faa60c648621a70878",
+    "name": "Supply Chain Management"
+  },
+  {
+    "_id": "654389faa60c648621a70701",
+    "name": "Surveys and Questionnaires"
+  },
+  {
+    "_id": "654389faa60c648621a708ba",
+    "name": "Swagger"
+  },
+  {
+    "_id": "6486a65e34730cac6a480488",
+    "name": "Swift"
+  },
+  {
+    "_id": "6486a65e34730cac6a480489",
+    "name": "Symfony"
+  },
+  {
+    "_id": "654389faa60c648621a70774",
+    "name": "Tableau"
+  },
+  {
+    "_id": "654389faa60c648621a70715",
+    "name": "Target Audience Definition"
+  },
+  {
+    "_id": "654389faa60c648621a70819",
+    "name": "Tax Law"
+  },
+  {
+    "_id": "654389faa60c648621a70804",
+    "name": "Tax Planning"
+  },
+  {
+    "_id": "654389faa60c648621a707cc",
+    "name": "Taxation"
+  },
+  {
+    "_id": "6486a65e34730cac6a48048a",
+    "name": "TensorFlow"
+  },
+  {
+    "_id": "6486a65e34730cac6a48048b",
+    "name": "Terraform"
+  },
+  {
+    "_id": "6486a65e34730cac6a48048c",
+    "name": "Test Automation"
+  },
+  {
+    "_id": "654389faa60c648621a7086a",
+    "name": "TestNG"
+  },
+  {
+    "_id": "654389faa60c648621a707ea",
+    "name": "Theano"
+  },
+  {
+    "_id": "654389faa60c648621a70854",
+    "name": "Threat Detection and Response"
+  },
+  {
+    "_id": "654389faa60c648621a70862",
+    "name": "Time Management"
+  },
+  {
+    "_id": "654389faa60c648621a70861",
+    "name": "Total Quality Management (TQM)"
+  },
+  {
+    "_id": "654389faa60c648621a706ee",
+    "name": "Trading Platforms"
+  },
+  {
+    "_id": "654389faa60c648621a70709",
+    "name": "Training and Development"
+  },
+  {
+    "_id": "654389faa60c648621a707d2",
+    "name": "Travis CI"
+  },
+  {
+    "_id": "654389faa60c648621a708a3",
+    "name": "Trello"
+  },
+  {
+    "_id": "654389faa60c648621a707ef",
+    "name": "TuriCreate"
+  },
+  {
+    "_id": "6486a65e34730cac6a48048d",
+    "name": "TypeScript"
+  },
+  {
+    "_id": "654389faa60c648621a7075d",
+    "name": "UI/UX Design"
+  },
+  {
+    "_id": "6486a65e34730cac6a480494",
+    "name": "UX Research"
+  },
+  {
+    "_id": "6486a65e34730cac6a48048e",
+    "name": "Unit Testing"
+  },
+  {
+    "_id": "6486a65e34730cac6a48048f",
+    "name": "Unity"
+  },
+  {
+    "_id": "6486a65e34730cac6a480490",
+    "name": "Unreal Engine"
+  },
+  {
+    "_id": "6486a65e34730cac6a480491",
+    "name": "Usability Testing"
+  },
+  {
+    "_id": "6486a65e34730cac6a480492",
+    "name": "User Experience (UX) Design"
+  },
+  {
+    "_id": "6486a65e34730cac6a480493",
+    "name": "User Interface (UI) Design"
+  },
+  {
+    "_id": "654389faa60c648621a7082f",
+    "name": "VB.NET"
+  },
+  {
+    "_id": "654389faa60c648621a70729",
+    "name": "Vagrant"
+  },
+  {
+    "_id": "654389faa60c648621a708c9",
+    "name": "Valuation"
+  },
+  {
+    "_id": "654389faa60c648621a7077b",
+    "name": "Value Stream Mapping"
+  },
+  {
+    "_id": "654389faa60c648621a707fb",
+    "name": "Variance Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a7075c",
+    "name": "Vendor Management"
+  },
+  {
+    "_id": "654389faa60c648621a7084f",
+    "name": "Vendor Risk Assessment"
+  },
+  {
+    "_id": "654389faa60c648621a70857",
+    "name": "Vendor Selection"
+  },
+  {
+    "_id": "654389faa60c648621a70719",
+    "name": "Venture Capital"
+  },
+  {
+    "_id": "654389faa60c648621a70840",
+    "name": "Version Control"
+  },
+  {
+    "_id": "654389faa60c648621a70802",
+    "name": "Video Editing"
+  },
+  {
+    "_id": "654389faa60c648621a706cd",
+    "name": "Video Optimization"
+  },
+  {
+    "_id": "654389faa60c648621a70741",
+    "name": "Video Production"
+  },
+  {
+    "_id": "6486a65e34730cac6a480495",
+    "name": "Virtual Reality (VR) Development"
+  },
+  {
+    "_id": "654389faa60c648621a7079a",
+    "name": "VirtualBox"
+  },
+  {
+    "_id": "654389faa60c648621a70767",
+    "name": "Visual Communication"
+  },
+  {
+    "_id": "654389faa60c648621a706eb",
+    "name": "Visual Studio"
+  },
+  {
+    "_id": "654389faa60c648621a70874",
+    "name": "Visual Studio Code"
+  },
+  {
+    "_id": "654389faa60c648621a7076e",
+    "name": "Visual Studio Code Extensions"
+  },
+  {
+    "_id": "6486a65e34730cac6a480496",
+    "name": "Vue.js"
+  },
+  {
+    "_id": "654389faa60c648621a707a1",
+    "name": "Warehouse Management"
+  },
+  {
+    "_id": "654389faa60c648621a706f7",
+    "name": "Waste Reduction"
+  },
+  {
+    "_id": "654389faa60c648621a708a8",
+    "name": "Wealth Management"
+  },
+  {
+    "_id": "654389faa60c648621a70788",
+    "name": "Web Analytics"
+  },
+  {
+    "_id": "6486a65e34730cac6a480497",
+    "name": "Web Application Security"
+  },
+  {
+    "_id": "654389faa60c648621a70887",
+    "name": "Weka"
+  },
+  {
+    "_id": "654389faa60c648621a70779",
+    "name": "WireMock"
+  },
+  {
+    "_id": "654389faa60c648621a70766",
+    "name": "Workflow Analysis"
+  },
+  {
+    "_id": "654389faa60c648621a7085b",
+    "name": "Workflow Design"
+  },
+  {
+    "_id": "654389faa60c648621a706d3",
+    "name": "Working Capital Management"
+  },
+  {
+    "_id": "654389faa60c648621a707d9",
+    "name": "Written and Verbal Communication"
+  },
+  {
+    "_id": "654389faa60c648621a70733",
+    "name": "XBRL (eXtensible Business Reporting Language)"
+  },
+  {
+    "_id": "654389faa60c648621a707f4",
+    "name": "XGBoost"
+  },
+  {
+    "_id": "6486a65e34730cac6a480498",
+    "name": "Xamarin"
+  },
+  {
+    "_id": "654389faa60c648621a7073b",
+    "name": "Xcode"
+  },
+  {
+    "_id": "654389faa60c648621a70812",
+    "name": "YSlow"
+  },
+  {
+    "_id": "654389faa60c648621a70870",
+    "name": "YouTube Marketing"
+  },
+  {
+    "_id": "654389faa60c648621a70706",
+    "name": "Zabbix"
+  },
+  {
+    "_id": "654389faa60c648621a70822",
+    "name": "iOS Development"
+  },
+  {
+    "_id": "6486a65e34730cac6a48045d",
+    "name": "jQuery"
+  },
+  {
+    "_id": "654389faa60c648621a707f1",
+    "name": "npm (Node Package Manager)"
+  },
+  {
+    "_id": "654389faa60c648621a70704",
+    "name": "pip (Python Package Index)"
+  },
+  {
+    "_id": "654389faa60c648621a707a6",
+    "name": "scikit-learn"
+  }
+]

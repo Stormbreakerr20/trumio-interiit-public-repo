@@ -1,0 +1,758 @@
+[
+    {
+        "_id": "6486a6c33cf46b7a02d8bde2",
+        "name": "AB Tasty"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf2",
+        "name": "AWS CloudFormation"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf3",
+        "name": "AWS CodeDeploy"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf4",
+        "name": "AWS Lambda"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde3",
+        "name": "Amazon AI Services"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde4",
+        "name": "Amazon ECS"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde5",
+        "name": "Amazon Web Services (AWS)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde6",
+        "name": "Angular"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde7",
+        "name": "Apache Ant"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde8",
+        "name": "Apache JMeter"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdea",
+        "name": "Apache MXNet"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bde9",
+        "name": "Apache Mesos"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdeb",
+        "name": "Apigee"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdec",
+        "name": "AppDynamics"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bded",
+        "name": "Appian"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdee",
+        "name": "Asana"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdef",
+        "name": "Atom"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf0",
+        "name": "Atom Packages"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf1",
+        "name": "AutoML"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf5",
+        "name": "Azure DevOps"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf6",
+        "name": "Azure DevOps Pipelines"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf7",
+        "name": "Azure Functions"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf8",
+        "name": "Bamboo"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdf9",
+        "name": "BigML"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdfa",
+        "name": "Bitbucket"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdfb",
+        "name": "Burp Suite"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdfc",
+        "name": "Caffe"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdfd",
+        "name": "Cassandra"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdfe",
+        "name": "Checkstyle"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8bdff",
+        "name": "Chef"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be00",
+        "name": "CircleCI"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be01",
+        "name": "Code Review and Collaboration:"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be02",
+        "name": "Cognitive Toolkit"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be03",
+        "name": "Confluence"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be04",
+        "name": "CouchDB"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be05",
+        "name": "Crucible"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be0a",
+        "name": "DataRobot"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be06",
+        "name": "Database Management:"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be07",
+        "name": "Databricks"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be08",
+        "name": "Datadog"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be09",
+        "name": "Dataiku"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be0b",
+        "name": "Dialogflow"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be0c",
+        "name": "Django"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be0d",
+        "name": "DocFX"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be0e",
+        "name": "Docker"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be0f",
+        "name": "Documentation and Knowledge Management:"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be10",
+        "name": "Docusaurus"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be11",
+        "name": "Doxygen"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be12",
+        "name": "Dredd"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be13",
+        "name": "DynamoDB"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be14",
+        "name": "Dynatrace"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be17",
+        "name": "ELK Stack (Elasticsearch, Logstash, Kibana)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be18",
+        "name": "ELKI"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be19",
+        "name": "ESLint"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be15",
+        "name": "Eclipse"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be16",
+        "name": "Eclipse Plugins"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be1a",
+        "name": "Flutter"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be1b",
+        "name": "Fortify"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be1c",
+        "name": "Gatling"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be1d",
+        "name": "Gatsby"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be1e",
+        "name": "Gensim"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be1f",
+        "name": "Git"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be20",
+        "name": "GitHub"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be21",
+        "name": "GitHub Projects"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be22",
+        "name": "GitHub Wiki"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be23",
+        "name": "GitLab"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be24",
+        "name": "GitLab CI/CD"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be25",
+        "name": "Google Cloud AI"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be26",
+        "name": "Google Cloud AutoML"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be27",
+        "name": "Google Cloud Functions"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be28",
+        "name": "Google Cloud Platform (GCP)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be29",
+        "name": "Google Cloud Speech-to-Text"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be2a",
+        "name": "Google Docs"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be2b",
+        "name": "Google PageSpeed Insights"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be2c",
+        "name": "Gradle"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be2d",
+        "name": "Grafana"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be2e",
+        "name": "Graylog"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be2f",
+        "name": "Grunt"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be30",
+        "name": "Gulp"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be31",
+        "name": "H2O.ai"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be32",
+        "name": "Hugo"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be33",
+        "name": "IBM Cloud"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be34",
+        "name": "IBM Cloud Functions"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be35",
+        "name": "IBM Watson"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be36",
+        "name": "IBM Watson Natural Language Understanding"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be37",
+        "name": "IBM Watson Studio"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be38",
+        "name": "Icinga"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be39",
+        "name": "Insomnia"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be3a",
+        "name": "Instana"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be3b",
+        "name": "IntelliJ IDEA"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be3c",
+        "name": "IntelliJ IDEA Plugins"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be3d",
+        "name": "Ionic"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be42",
+        "name": "JUnit"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be3e",
+        "name": "Javadoc"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be3f",
+        "name": "Jekyll"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be40",
+        "name": "Jenkins"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be41",
+        "name": "Jira"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be44",
+        "name": "KNIME"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be43",
+        "name": "Keras"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be45",
+        "name": "Kubernetes"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be46",
+        "name": "LaunchDarkly"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be47",
+        "name": "LoadRunner"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be48",
+        "name": "Locust"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be49",
+        "name": "Loggly"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be4a",
+        "name": "Ludwig"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be58",
+        "name": "MSBuild"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be4b",
+        "name": "Mahout"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be4c",
+        "name": "Make"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be4d",
+        "name": "Maven"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be4e",
+        "name": "Maven Central Repository"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be4f",
+        "name": "Mendix"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be50",
+        "name": "Mercurial"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be51",
+        "name": "Microsoft Azure"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be52",
+        "name": "Microsoft Azure Machine Learning"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be53",
+        "name": "Microsoft Cognitive Toolkit (CNTK)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be54",
+        "name": "Microsoft Power Apps"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be55",
+        "name": "Microsoft Teams"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be56",
+        "name": "Mockito"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be57",
+        "name": "MongoDB"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be59",
+        "name": "MySQL"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be5f",
+        "name": "NLTK (Natural Language Toolkit)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be65",
+        "name": "NVIDIA Deep Learning SDK"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be5a",
+        "name": "Nagios"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be5b",
+        "name": "Neo4j"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be5c",
+        "name": "Nessus"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be5d",
+        "name": "New Relic"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be5e",
+        "name": "Next.js"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be60",
+        "name": "Nock"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be61",
+        "name": "Notepad++"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be62",
+        "name": "Notion"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be64",
+        "name": "NuGet (for .NET)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be6c",
+        "name": "OWASP ZAP"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be66",
+        "name": "Octopus Deploy"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be67",
+        "name": "OpenAPI/Swagger"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be68",
+        "name": "OpenCV"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be69",
+        "name": "Optimizely"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be6a",
+        "name": "Orange"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be6b",
+        "name": "OutSystems"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be6d",
+        "name": "Papertrail"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be6f",
+        "name": "PostgreSQL"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be70",
+        "name": "Postman"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be71",
+        "name": "Prometheus"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be72",
+        "name": "Prophet"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be73",
+        "name": "Puppet"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be75",
+        "name": "PyTorch"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be74",
+        "name": "Pylint"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be76",
+        "name": "Rake"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be77",
+        "name": "RapidMiner"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be78",
+        "name": "React"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be79",
+        "name": "React Native"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be7a",
+        "name": "Redis"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be7c",
+        "name": "Selenium"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be7d",
+        "name": "Sensu"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be7e",
+        "name": "Sinon.js"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be7f",
+        "name": "Slack"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be80",
+        "name": "SoapUI"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be81",
+        "name": "SonarLint"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be82",
+        "name": "SonarQube"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be83",
+        "name": "SpaCy"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be84",
+        "name": "Sphinx"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be85",
+        "name": "Spinnaker"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be86",
+        "name": "Split"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be87",
+        "name": "Splunk"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be88",
+        "name": "Sublime Text"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be89",
+        "name": "Subversion (SVN)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be8a",
+        "name": "Swagger"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be8b",
+        "name": "TensorFlow"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be8c",
+        "name": "Terraform"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be8d",
+        "name": "TestNG"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be8e",
+        "name": "Theano"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be8f",
+        "name": "Travis CI"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be90",
+        "name": "Trello"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be91",
+        "name": "TuriCreate"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be92",
+        "name": "Vagrant"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be93",
+        "name": "VirtualBox"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be94",
+        "name": "Visual Studio"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be95",
+        "name": "Visual Studio Code"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be96",
+        "name": "Visual Studio Code Extensions"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be97",
+        "name": "Vue.js"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be98",
+        "name": "Weka"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be99",
+        "name": "WireMock"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be9c",
+        "name": "XGBoost"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be9a",
+        "name": "Xamarin"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be9b",
+        "name": "Xcode"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be9d",
+        "name": "YSlow"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be9e",
+        "name": "Zabbix"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be63",
+        "name": "npm (Node Package Manager)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be6e",
+        "name": "pip (Python Package Index)"
+    },
+    {
+        "_id": "6486a6c33cf46b7a02d8be7b",
+        "name": "scikit-learn"
+    }
+]

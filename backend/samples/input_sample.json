@@ -1,0 +1,154 @@
+{
+  "transcript": {
+    "transcript": {
+      "text": "John Doe: Good morning, everyone! Let's start the meeting. Today's agenda includes project progress, upcoming tasks, any issues or roadblocks, and planning for the next steps. Jane, can you please provide an update on the data processing workflows for Milestone 3?\n\nJane Smith: Certainly, John. I've made good progress on the data processing workflows. We are on track to complete Milestone 3 by the scheduled date. However, I might need some input from Alice regarding the design elements.\n\nAlice Johnson: Absolutely, Jane. I'll make sure to provide the necessary design elements promptly. Just let me know what specific details you need.\n\nJohn Doe: Great collaboration, team! Now, let's discuss Milestone 4. Alice, how is the integration with Azure Cognitive Services coming along?\n\nAlice Johnson: I've initiated the integration process, and so far, everything looks promising. I'll provide a more detailed update by the end of the week after thorough testing.\n\nBob Williams: Speaking of testing, I've started preparing test cases for the Large Language Model Integration in Milestone 5. If there are specific scenarios we should focus on, please let me know.\n\nJohn Doe: Good initiative, Bob. Let's prioritize scenarios related to user interactions and system responses. We want to ensure a smooth user experience with the language models.\n\nJane Smith: Noted, John. I'll coordinate with Bob to align our testing efforts. Additionally, I think we should address any potential roadblocks or issues proactively. Any concerns from the team?\n\nBob Williams: I'm good on my end, Jane. No major concerns so far.\n\nJohn Doe: Excellent. Let's move on to the next steps. Each of you has specific tasks outlined in the action items. Please ensure that we meet the deadlines. Anything else anyone would like to add before we conclude?\n\nAlice Johnson: I just want to highlight the great teamwork we have. It's inspiring to see everyone contributing to the success of the project.\n\nJohn Doe: I completely agree, Alice. Our Awesome Team is doing fantastic work. Let's keep up the momentum. If there are no further comments, I'll conclude the meeting. Thank you, everyone!"
+    }
+  },
+  "project": {
+    "name": "Build Reference Architecture for Enterprise LLM Tools in Azure",
+    "description": "Prototype a reference architecture for leveraging data stored in IBM Power virtual machines on Skytap to power enterprise LLM tools in Azure. This project will require data extraction, processing and storage, as well as working with embeddings and large language models.\n\nTools and services you might work with include:\n- Skytap\n- IBM i / AIX LPARs\n- IBM DB2 or Oracle databases\n- Azure Data Factory\n- Blob storage\n- Azure Cognitive Services\n- Azure Open AI\n- Azure Cosmos DB",
+    "expected_duration": "4w",
+    "listing_duration": "09 Nov 2023 to 06 Feb 2024",
+    "team": {
+      "name": "Awesome Team",
+      "description": "An amazing team working on exciting projects.",
+      "members": [
+        {
+          "name": "John Doe",
+          "role": "Project Manager"
+        },
+        {
+          "name": "Jane Smith",
+          "role": "Developer"
+        }
+      ]
+    },
+    "meeting_transcripts": [
+      {
+        "timestamp": "2023-12-06T12:00:00Z",
+        "members": [
+          {
+            "name": "Alice Johnson",
+            "role": "Designer"
+          },
+          {
+            "name": "Bob Williams",
+            "role": "QA Engineer"
+          }
+        ],
+        "trancriptSummary": {
+          "chapters": [
+            {
+              "title": "Introduction",
+              "description": "Discussion about project goals and objectives."
+            },
+            {
+              "title": "Planning",
+              "description": "Agreement on project milestones and timelines."
+            }
+          ]
+        }
+      },
+      {
+        "timestamp": "2023-12-07T14:30:00Z",
+        "members": [
+          {
+            "name": "John Doe",
+            "role": "Project Manager"
+          },
+          {
+            "name": "Jane Smith",
+            "role": "Developer"
+          },
+          {
+            "name": "Alice Johnson",
+            "role": "Designer"
+          },
+          {
+            "name": "Bob Williams",
+            "role": "QA Engineer"
+          }
+        ],
+        "trancriptSummary": {
+          "chapters": [
+            {
+              "title": "Project Progress",
+              "description": "Reviewed completed tasks and milestones. Discussed any challenges encountered."
+            },
+            {
+              "title": "Upcoming Tasks",
+              "description": "Outlined tasks for the next sprint, focusing on Milestones 3 and 4."
+            },
+            {
+              "title": "Issues and Roadblocks",
+              "description": "Identified potential roadblocks and discussed strategies to address them."
+            },
+            {
+              "title": "Next Steps",
+              "description": "Agreed on individual responsibilities and set deadlines for the upcoming tasks."
+            }
+          ]
+        }
+      }
+    ],
+    "milestones": [
+      {
+        "name": "Milestone 1",
+        "description": "Project Kickoff and Planning",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 2",
+        "description": "Environment Setup and Data Extraction",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 3",
+        "description": "Data Processing and Storage in Azure",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 4",
+        "description": "Integration with Azure Cognitive Services and Embeddings",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 5",
+        "description": "Large Language Model Integration and Testing",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 6",
+        "description": "Documentation and Review",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 7",
+        "description": "Final Testing and Deployment",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Milestone 8",
+        "description": "Knowledge Transfer and Handover",
+        "duration": "1 week"
+      },
+      {
+        "name": "Post-Deployment Support",
+        "description": "Ongoing support and monitoring",
+        "duration": "Ongoing"
+      }
+    ],
+    "skills_required": [
+      "Azure (Microsoft Azure)",
+      "Data Warehousing",
+      "ETL (Extract, Transform, Load)",
+      "AI Engineering",
+      "Microsoft Azure Machine Learning"
+    ],
+    "tools_required": [
+      "Microsoft Azure Machine Learning",
+      "Database Management",
+      "Microsoft Azure"
+    ]
+  }
+}
